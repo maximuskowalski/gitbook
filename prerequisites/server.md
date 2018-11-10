@@ -1,8 +1,6 @@
 # Server
 
-
-
-## Getting a Server
+## **Getting a Server**
 
 You will need a dedicated server, from a server provider \(e.g. Hetzner, kimsufi, OVH, etc\), installed with Ubuntu Server [16.04](http://releases.ubuntu.com/16.04/) or [18.04](http://releases.ubuntu.com/18.04/).
 
@@ -34,7 +32,7 @@ _Note 4: If using Ubuntu Desktop, make sure SSH is enabled._
 
   ![](https://camo.githubusercontent.com/0d4edc80e77917ce7e3a37f42b97861a6e6bfc33/68747470733a2f2f692e696d6775722e636f6d2f44635a4141574d2e706e67)
 
-### Partitioning:
+### Partitioning
 
 * If you have multiple hard drives on the server \(eg. 2 x 4 TB\), put them in RAID 0 to maximize space and speed \(you don't need redundancy as you can schedule backups of Cloudbox\).
 * Set all available space to `/` \(remove `/home` and `/data` partitions\).
