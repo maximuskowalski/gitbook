@@ -11,3 +11,8 @@
 
 * [How to enable iGPU for Hetzner.com servers](external-links/how-to-enable-igpu-for-hetzner.com-servers.md)
 
+## Community Project
+
+* [Repo](community-project/repo.md)
+* [Wiki](community-project/wiki.md)
+
