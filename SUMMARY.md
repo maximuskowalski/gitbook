@@ -16,3 +16,9 @@
 * [Repo](community-project/repo.md)
 * [Wiki](community-project/wiki.md)
 
+## Links
+
+* [Website](links/website.md)
+* [Reddit](links/reddit.md)
+* [Discord](links/discord.md)
+
